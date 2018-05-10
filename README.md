@@ -1,1 +1,1 @@
-# pin.js
+# Pin Payment
